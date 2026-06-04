@@ -427,7 +427,7 @@ class _ProfilePageState extends State<ProfilePage> {
                 OutlinedButton.icon(
                   onPressed: () => addOrEditAddress(),
                   icon: const Icon(Icons.add_location_alt),
-                  label: const Text("Add New Address"),
+                  label: const Text("Add New Addresss"),
                 ),
               ],
             ),
